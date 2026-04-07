@@ -77,10 +77,18 @@ Execute the code.
 Debug errors if any and re-run.
 Observe the generated waveforms.
 
-MODEL GRAPHS
 
 TABULATIONS
 
-CALCULATIONS
+![WhatsApp Image 2026-04-07 at 1 05 31 PM](https://github.com/user-attachments/assets/4f6f6c8a-7f81-457e-a497-bca4998b70f4)
+
+OUTPUT GRAPH :
+
+![WhatsApp Image 2026-04-07 at 1 05 31 PM (1)](https://github.com/user-attachments/assets/0c74f1fd-16a3-4260-a195-fb97fa8d8860)
+
+<img width="761" height="537" alt="image" src="https://github.com/user-attachments/assets/c720857c-0d95-45f4-8da6-2bf512582ec7" />
+
 
 RESULT
+
+![WhatsApp Image 2026-04-07 at 1 05 31 PM (2)](https://github.com/user-attachments/assets/cfd500b0-33ea-4f8d-9d34-09d09fddc501)
